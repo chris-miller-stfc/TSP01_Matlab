@@ -1,5 +1,6 @@
 # TSP01_Matlab
 Code to read the Thorlabs TSP01 temperature sensor from MATLAB
+
 See TestRun.m for example usage.
  
 You will need to install the Thorlabs TSP01 software.
